@@ -2,4 +2,5 @@
 # the repo. Unless a later match takes precedence,
 # @global-owner1 and @global-owner2 will be requested for
 # review when someone opens a pull request.
-*       5963165*+1@users.noreply.github.com
+#*       59631652+1@users.noreply.github.com
+*       @d*
